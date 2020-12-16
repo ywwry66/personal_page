@@ -8,6 +8,7 @@
         ("blog-content"
          :base-directory "./"
          :base-extension "org"
+	 :exclude "readme.org"
          :publishing-directory "./public"
          :recursive t
          :publishing-function org-html-publish-to-html

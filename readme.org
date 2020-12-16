@@ -1,0 +1,1 @@
+This repo builds my personal webpage. It is inspired by [[https://duncan.codes/posts/2019-09-03-migrating-from-jekyll-to-org/][Duncan Mac-Vicar P.'s blog]].
