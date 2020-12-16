@@ -7,5 +7,5 @@
 
 [[file:index.org][Home]] [[file:teaching.org][Teaching]] [[file:research.org][Research]] [[file:static/Ruiyang Wu.pdf][Curriculum vitae]]
 
-I am a fifth year PhD student at [[https:math.arizona.edu][Department of Mathematics]], [[https:arizona.edu][University
+I am a fifth year PhD student at [[https://math.arizona.edu][Department of Mathematics]], [[https://arizona.edu][University
 of Arizona]].
