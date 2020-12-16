@@ -21,5 +21,5 @@ jobs:
       if: success()
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish-branch: gh-pages
-        publish-dir: ./public
+        publish_branch: gh-pages
+        publish_dir: ./public
