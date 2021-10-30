@@ -2,10 +2,8 @@
 #+author: Ruiyang Wu 
 
 #+name: photo
-#+attr_html: :align right :width 500px
-[[file:static/Ruiyang.jpeg]]
-
-[[file:index.org][Home]] [[file:teaching.org][Teaching]] [[file:research.org][Research]] [[file:static/Ruiyang Wu.pdf][Curriculum vitae]]
+#+attr_html: :align right :width 300px
+[[file:static/Ruiyang_1.jpeg]]
 
 I am a sixth year PhD student at [[https://www.math.arizona.edu][Department of Mathematics]], [[https://www.arizona.edu][University
 of Arizona]].
