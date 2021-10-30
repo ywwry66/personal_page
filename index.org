@@ -22,7 +22,6 @@ Mailling Address:\\
 Department of Mathematics\\
 University of Arizona\\
 617 N Santa Rita, Tucson, AZ 85721\\
-(520) 312-0382
 
 Email:\\
 ruiyangwu[at]math1[dot]arizona2[dot]edu3 (delete numbers)
