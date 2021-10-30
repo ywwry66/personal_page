@@ -14,6 +14,10 @@ Statistics and Data Sciences from University of Arizona.
 
 [[file:static/Ruiyang Wu.pdf][Curriculum vitae]]
 
+* Research Interests
+- High-dimensional statistics
+- Machine learning
+
 * Contact Info
 Office:\\
 Math 707
