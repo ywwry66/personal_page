@@ -2,7 +2,7 @@
 ** Manuscripts
 - Wu, R. and Hao, N. (2021)\\
   Quadratic Discriminant Analysis by Projection.\\
-  [[https://arxiv.org/abs/2108.09431][[arXiv]​]]
+  [[https://arxiv.org/abs/2108.09005][[arXiv]​]]
 ** Conference Presentations
 “Quadratic Discriminant Analysis by Projection”\\
 TRIPODS 2nd Southwest Summer Conference, Oracle, AZ, May 2019
