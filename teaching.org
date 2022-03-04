@@ -4,8 +4,10 @@
 
 * Teaching
 ** Current
-Fall 2021: College Algebra (Math112)
+Spring 2022: College Algebra (Math112)
 ** Past
+Fall 2021: College Algebra (Math112)
+
 Summer 2020: Real Analysis Qualifying Exam Review Sessions
 
 Spring 2018: TA for Taryn Laird. Exploring and Understanding Data
