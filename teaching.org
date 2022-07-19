@@ -3,9 +3,9 @@
 #+HTML_HEAD_EXTRA: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 
 * Teaching
-** Current
-Spring 2022: College Algebra (Math112)
 ** Past
+Spring 2022: College Algebra (Math112)
+
 Fall 2021: College Algebra (Math112)
 
 Summer 2020: Real Analysis Qualifying Exam Review Sessions
@@ -18,4 +18,4 @@ Fall 2017: TA for Andrew Gillette. Exploring and Understanding Data
 
 Spring 2017: TA for Brenae Bailey. College Algebra (Math 112)
 
-Fall 2017: TA for Bruce Bayly. Applied Linear Algebra (Math 310)
+Fall 2016: TA for Bruce Bayly. Applied Linear Algebra (Math 310)
