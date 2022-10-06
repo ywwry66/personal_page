@@ -6,11 +6,11 @@
 [[file:static/Ruiyang_1.jpeg]]
 
 * About Me
-I am a sixth year PhD student at [[https://www.math.arizona.edu][Department of Mathematics]], [[https://www.arizona.edu][University
-of Arizona]].
+I am a postdoc at [[https://publichealth.nyu.edu][School of Global Public Health]], [[https://www.nyu.edu][New York University]].
 
-I received B.S. in Mathematics from Peking University and M.S. in
-Statistics and Data Sciences from University of Arizona.
+I received B.S. in Mathematics from Peking University, M.S. in
+Statistics and Data Sciences from University of Arizona, and Ph.D. in
+Mathematics from University of Arizona.
 
 [[file:static/Ruiyang Wu.pdf][Curriculum vitae]]
 
@@ -20,12 +20,13 @@ Statistics and Data Sciences from University of Arizona.
 
 * Contact Info
 Office:\\
-Math 707
+718C
 
 Mailling Address:\\
-Department of Mathematics\\
-University of Arizona\\
-617 N Santa Rita, Tucson, AZ 85721\\
+708 Broadway\\
+7th Floor\\
+New York NY 10003\\
+United States
 
 Email:\\
-ruiyangwu[at]math1[dot]arizona2[dot]edu3 (delete numbers)
+ruiyang.wu[at]nyu1[dot]edu2 (delete numbers)
