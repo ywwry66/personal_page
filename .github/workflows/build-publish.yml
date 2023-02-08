@@ -8,17 +8,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@main
-      with:
-        fetch-depth: 1
+    - uses: actions/checkout@v3
     - name: build
       uses: docker://iquiw/alpine-emacs
-      if: github.event.deleted == false
       with:
         args: ./build.sh
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
-      if: success()
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: gh-pages
