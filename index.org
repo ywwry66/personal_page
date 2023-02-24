@@ -3,7 +3,7 @@
 
 #+name: photo
 #+attr_html: :align right :width 300px
-[[file:static/Ruiyang_1.jpeg]]
+[[file:static/Ruiyang.jpeg]]
 
 * About Me
 I am a postdoc at [[https://publichealth.nyu.edu][School of Global Public Health]], [[https://www.nyu.edu][New York University]].
