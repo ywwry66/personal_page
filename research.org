@@ -7,6 +7,10 @@
 - Wu, R. and Hao, N. (2022)\\
   Quadratic Discriminant Analysis by Projection.\\
   /Journal of Multivariate Analysis, 190, 104987./ [[https://authors.elsevier.com/sd/article/S0047-259X(22)00027-6][[PDF]​]] [[https://arxiv.org/abs/2108.09005][[arXiv]​]]; R package [[https://github.com/ywwry66/QDA-by-Projection-R-Package][QDAP]]
+- He, Y., Wu, R., Zhou, Y. and Feng, Y. (2023)\\
+  DDAC-SpAM: A Distributed Algorithm for Fitting High-dimensional
+  Sparse Additive Models with Feature Division and Decorrelation.\\
+  /Journal of the American Statistical Association/ [[https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2225743][[PDF]​]] [[https://arxiv.org/abs/2205.07932][[arXiv]​]]
 - Wu, R. and Hao, N. (2023+)\\
   Dimension Reduction for Quadratic Discriminant Analysis via
   Supervised Principal Component Analysis.\\
