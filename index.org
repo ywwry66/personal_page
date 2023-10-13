@@ -15,8 +15,10 @@ Mathematics from University of Arizona.
 [[file:static/Ruiyang Wu.pdf][Curriculum vitae]]
 
 * Research Interests
-- High-dimensional statistics
-- Machine learning
+- Theory and Methods: High-dimensional Statistics, Statistical Machine
+  Learning (Discriminant Analysis, Transfer Learning, Decision Tree
+  Learning, Change-point Detection).
+- Applications: Electronic Health Record Data, Neuroimaging Data.
 
 * Contact Info
 Office:\\
