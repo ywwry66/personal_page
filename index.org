@@ -6,11 +6,12 @@
 [[file:static/Ruiyang.jpeg]]
 
 * About Me
-I am a postdoc at [[https://publichealth.nyu.edu][School of Global Public Health]], [[https://www.nyu.edu][New York University]].
+I am a postdoc at the [[https://publichealth.nyu.edu][School of Global Public Health]], [[https://www.nyu.edu][New York
+University]].
 
-I received B.S. in Mathematics from Peking University, M.S. in
-Statistics and Data Sciences from University of Arizona, and Ph.D. in
-Mathematics from University of Arizona.
+I received a B.S. in Mathematics from Peking University, a M.S. in
+Statistics and Data Sciences from the University of Arizona, and a
+Ph.D. in Mathematics from the University of Arizona.
 
 [[file:static/Ruiyang Wu.pdf][Curriculum vitae]]
 
