@@ -25,6 +25,9 @@ Note: \zwnj^1 represents co-first authors
   
 ** Conference Presentations
 “Quadratic Discriminant Analysis by Projection”\\
+2022 ICSA China Conference, Virtual/Xi’an, China, July 2022 (Invited)
+
+“Quadratic Discriminant Analysis by Projection”\\
 TRIPODS 2nd Southwest Summer Conference, Oracle, AZ, May 2019
 
 “Quadratic Discriminant Analysis by Projection”\\
