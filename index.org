@@ -6,12 +6,17 @@
 [[file:static/Ruiyang.jpeg]]
 
 * About Me
-I am a postdoc at the [[https://publichealth.nyu.edu][School of Global Public Health]], [[https://www.nyu.edu][New York
-University]].
+I am an Assisitant Professor of Statistics in the Paul H. Chook
+Department of Information Systems and Statistics at the [[https://zicklin.baruch.cuny.edu][Zicklin School
+of Business]], [[https://www.baruch.cuny.edu][Baruch College]].
 
-I received a B.S. in Mathematics from Peking University, a M.S. in
-Statistics and Data Sciences from the University of Arizona, and a
-Ph.D. in Mathematics from the University of Arizona.
+I received a B.S. in Mathematics from [[https://www.pku.edu.cn][Peking University]], an M.S. in
+Statistics and Data Science and a Ph.D. in Mathematics from the
+[[https://www.arizona.edu][University of Arizona]].
+
+Prior to joining Baruch, I spent two years as a postdoctoral associate
+in [[https://publichealth.nyu.edu/research/labs/feng-lab][Feng Lab]] at the [[https://publichealth.nyu.edu][School of Global Public Health]], [[https://www.nyu.edu][New York
+University]].
 
 [[file:static/Ruiyang Wu.pdf][Curriculum vitae]]
 
