@@ -8,10 +8,11 @@ Note: \zwnj^1 represents co-first authors
 - He, Y.^1, *Wu, R.*\zwnj^1, Zhou, Y. and Feng, Y. (2023)\\
   DDAC-SpAM: A Distributed Algorithm for Fitting High-dimensional
   Sparse Additive Models with Feature Division and Decorrelation.\\
-  /Journal of the American Statistical Association/ [[https://doi.org/10.1080/01621459.2023.2225743][[PDF]​]] [[https://arxiv.org/abs/2205.07932][[arXiv]​]]
+  /Journal of the American Statistical Association/, 119(547),
+  1933-1944. [[https://doi.org/10.1080/01621459.2023.2225743][[PDF]​]] [[https://arxiv.org/abs/2205.07932][[arXiv]​]]
 - *Wu, R.* and Hao, N. (2022)\\
   Quadratic Discriminant Analysis by Projection.\\
-  /Journal of Multivariate Analysis, 190, 104987./ [[https://doi.org/10.1016/j.jmva.2022.104987][[PDF]​]] [[https://arxiv.org/abs/2108.09005][[arXiv]​]]; R
+  /Journal of Multivariate Analysis/, 190, 104987. [[https://doi.org/10.1016/j.jmva.2022.104987][[PDF]​]] [[https://arxiv.org/abs/2108.09005][[arXiv]​]]; R
   package [[https://github.com/ywwry66/QDA-by-Projection-R-Package][QDAP]]
 ** Manuscripts
 - *Wu, R.* and Hao, N. (2023+)\\
@@ -21,7 +22,7 @@ Note: \zwnj^1 represents co-first authors
 - Ouyang, W., *Wu R.*, Hao, N. and Zhang, H. H. (2023+)\\
   Dynamic Supervised Principal Component Analysis for
   Classification.\\
-  /Submitted./
+  /Submitted./ [[https://arxiv.org/abs/2411.01820][[arXiv]​]]
   
 ** Conference Presentations
 - “Quadratic Discriminant Analysis by Projection”\\
