@@ -3,19 +3,24 @@
 #+HTML_HEAD_EXTRA: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 
 * Teaching
-** Past
-Spring 2022: College Algebra (Math112)
+** Current
+*** Baruch College
+Fall 2024: Data Mining for Business Analytics (STA 3920)
 
-Fall 2021: College Algebra (Math112)
+** Past
+*** University of Arizona
+Spring 2022: College Algebra (MATH 112)
+
+Fall 2021: College Algebra (MATH 112)
 
 Summer 2020: Real Analysis Qualifying Exam Review Sessions
 
 Spring 2018: TA for Taryn Laird. Exploring and Understanding Data
-(Math 107)
+(MATH 107)
 
 Fall 2017: TA for Andrew Gillette. Exploring and Understanding Data
-(Math 107)
+(MATH 107)
 
-Spring 2017: TA for Brenae Bailey. College Algebra (Math 112)
+Spring 2017: TA for Brenae Bailey. College Algebra (MATH 112)
 
-Fall 2016: TA for Bruce Bayly. Applied Linear Algebra (Math 310)
+Fall 2016: TA for Bruce Bayly. Applied Linear Algebra (MATH 310)
