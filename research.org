@@ -10,11 +10,13 @@ Note: \zwnj^1 represents co-first authors
   Classification.\\
   /Journal of Computational and Graphical Statistics/. Accepted.
   [[https://arxiv.org/abs/2411.01820][[arXiv]​]]
+
 - He, Y.^1, *Wu, R.*\zwnj^1, Zhou, Y. and Feng, Y. (2023)\\
   DDAC-SpAM: A Distributed Algorithm for Fitting High-dimensional
   Sparse Additive Models with Feature Division and Decorrelation.\\
   /Journal of the American Statistical Association/, 119(547),
   1933-1944. [[https://doi.org/10.1080/01621459.2023.2225743][[PDF]​]] [[https://arxiv.org/abs/2205.07932][[arXiv]​]]
+
 - *Wu, R.* and Hao, N. (2022)\\
   Quadratic Discriminant Analysis by Projection.\\
   /Journal of Multivariate Analysis/, 190, 104987. [[https://doi.org/10.1016/j.jmva.2022.104987][[PDF]​]] [[https://arxiv.org/abs/2108.09005][[arXiv]​]]; R
@@ -25,10 +27,11 @@ Note: \zwnj^1 represents co-first authors
   Dimension Reduction for Quadratic Discriminant Analysis via
   Supervised Principal Component Analysis.\\
   /Manuscript available upon request./ R package [[https://github.com/ywwry66/Dimension-Reduction-for-QDA-via-supervised-PCA][QDAPCA]]
-  
+
 ** Conference Presentations
 - “Quadratic Discriminant Analysis by Projection”\\
-  2022 ICSA China Conference, Virtual/Xi’an, China, July 2022 (Invited)
+  2022 ICSA China Conference, Virtual/Xi’an, China, July 2022
+  (Invited)
 
 - “Quadratic Discriminant Analysis by Projection”\\
   TRIPODS 2nd Southwest Summer Conference, Oracle, AZ, May 2019
