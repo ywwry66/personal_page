@@ -22,7 +22,7 @@
          ;; :author nil
          ;; :creator-info nil
 	 :html-head "<link rel='stylesheet' href='static/worg.css' />"
-         :html-preamble "<a href=\"index.html\">Home</a> <a href=\"teaching.html\">Teaching</a> <a href=\"research.html\">Research</a>"
+         :html-preamble "<a href=\"index.html\">Home</a>&nbsp; <a href=\"teaching.html\">Teaching</a>&nbsp; <a href=\"research.html\">Research</a>"
          :html-postamble "<hrstyle=\"text-align: center;position: fixed;left: 0;bottom: 0;\">\n
 <p style=\"text-align: center;position: fixed;left: 0;bottom: 0;\"> Made with org-mode </p>"
          ;; :style "This is raw html for stylesheet <link>'s"
