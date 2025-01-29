@@ -9,7 +9,7 @@ Note: \zwnj^1 represents co-first authors
   Dynamic Supervised Principal Component Analysis for
   Classification.\\
   /Journal of Computational and Graphical Statistics/. Accepted.
-  [[https://arxiv.org/abs/2411.01820][[arXiv]​]]; R package [[https://github.com/ywwry66/DSPCA][DSPCA]]
+  [[https://doi.org/10.1080/10618600.2025.2452935][[PDF]​]] [[https://arxiv.org/abs/2411.01820][[arXiv]​]]; R package [[https://github.com/ywwry66/DSPCA][DSPCA]]
 
 - He, Y.^1, *Wu, R.*\zwnj^1, Zhou, Y. and Feng, Y. (2023)\\
   DDAC-SpAM: A Distributed Algorithm for Fitting High-dimensional
