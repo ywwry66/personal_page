@@ -5,9 +5,14 @@
 * Teaching
 ** Current
 *** Baruch College
-Fall 2024: Data Mining for Business Analytics (STA 3920)
+Business Statistics I (STA 2000)
+
+Data Mining for Business Analytics (STA 3920)
 
 ** Past
+*** Baruch College
+Fall 2024: Data Mining for Business Analytics (STA 3920)
+
 *** University of Arizona
 Spring 2022: College Algebra (MATH 112)
 
