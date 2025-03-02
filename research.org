@@ -5,7 +5,7 @@
 * Research
 ** Publications
 Note: \zwnj^1 represents co-first authors
-- Ouyang, W., *Wu, R.*, Hao, N. and Zhang, H. H. (2024+)\\
+- Ouyang, W., *Wu, R.*, Hao, N. and Zhang, H. H. (2025)\\
   Dynamic Supervised Principal Component Analysis for
   Classification.\\
   /Journal of Computational and Graphical Statistics/. Accepted.
@@ -23,7 +23,7 @@ Note: \zwnj^1 represents co-first authors
   package [[https://github.com/ywwry66/QDA-by-Projection-R-Package][QDAP]]
 
 ** Manuscripts
-- *Wu, R.* and Hao, N. (2024+)\\
+- *Wu, R.* and Hao, N. (2025+)\\
   Dimension Reduction for Quadratic Discriminant Analysis via
   Supervised Principal Component Analysis.\\
   /Manuscript available upon request./ R package [[https://github.com/ywwry66/Dimension-Reduction-for-QDA-via-supervised-PCA][QDAPCA]]
