@@ -7,10 +7,13 @@
 *** Baruch College
 Business Statistics I (STA 2000)
 
-Data Mining for Business Analytics (STA 3920)
+Data Mining and Statistical Learning (STA 3950)
 
 ** Past
 *** Baruch College
+Spring 2025: Business Statistics I (STA 2000)\\
+             Data Mining for Business Analytics (STA 3920)
+
 Fall 2024: Data Mining for Business Analytics (STA 3920)
 
 *** University of Arizona
